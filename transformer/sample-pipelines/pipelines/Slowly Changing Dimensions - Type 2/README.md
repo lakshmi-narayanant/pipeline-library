@@ -6,7 +6,7 @@ This pipeline demonstrates how to handle Slowly Changing Dimension - Type 2 oper
 Setup And Technical Details
 ---------------------------
 
-* Download the [pipeline](SCDType2588a6d29-c8b9-439e-8bec-8b1f7b9c0e99.json) and import it into your Data Collector
+* Download the [pipeline](SCDType2588a6d29-c8b9-439e-8bec-8b1f7b9c0e99.json) and import it into your Transformer 
 * Update the following pipeline parameters
     * OUTPUT_FILE_FOLDER
         * This is the path to the folder where you'd like output file to be created
